@@ -46,11 +46,6 @@
 <h2 align="left"></h2>
 
 ###
-
-###
-
-<h1 align="left"></h1>
-
 ###
 
 <picture>
